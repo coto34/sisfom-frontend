@@ -64,8 +64,8 @@ export default function Login() {
       <div className="w-full max-w-md">
         {/* Logo */}
         <div className="text-center mb-8">
-          <div className="inline-flex items-center justify-center bg-white rounded-2xl shadow-lg p-3 mb-4">
-            <img src="/logo-infom.png" alt="INFOM" className="h-40 w-auto" />
+          <div className="inline-flex items-center justify-center bg-white rounded-2xl shadow-lg p-1 mb-4">
+            <img src="/logo-infom.png" alt="INFOM" className="h-48 w-auto" />
           </div>
           <h1 className="text-3xl font-bold text-white">SISFOM</h1>
           <p className="text-primary-200 mt-2">Sistema de Fortalecimiento Municipal</p>
